@@ -1,15 +1,3 @@
-/* ---------------------------------------------------------------------------
-** This software is in the public domain, furnished "as is", without technical
-** support, and with no warranty, express or implied, as to its usefulness for
-** any purpose.
-**
-** Copyright (c) 2016 Can BOLUK. All rights reserved.
-**
-** Author: Can BOLUK (mkrvs.com)
-** -------------------------------------------------------------------------*/
-
-#define _CRT_SECURE_NO_WARNINGS
-
 #include <Windows.h>
 #include <string>
 #include <iostream>
