@@ -2,4 +2,5 @@
 
 A simple Age of Empires 3 maphack using built-in pattern searcher instead of hard-coded values.
 
-[![Demo](https://my.mixtape.moe/viijqt.png)]
+
+![Result](https://github.com/can1357/simple_aoe3_maphack/raw/master/result.jpeg)
